@@ -1,4 +1,4 @@
-YourPocketApps homepage — Version 2.0.0.2
+YourPocketApps homepage — Version 2.0.0.4
 
 Unzip and use index.html as your homepage. All page styles, fonts and app
 illustrations are bundled in the file.
@@ -7,6 +7,10 @@ At the very top of index.html, below the charset, edit the WEBSITE CONFIGURATION
 block (window.POCKET_APPS_LINKS). You do not need to edit the large bundled code.
 
 homepage: Enter your full homepage address, including https://.
+apps.home: Controls the logo link, mobile menu Home link and footer home link.
+           "#top" returns to the top of this page, without visiting the root.
+           Set a path such as "/home-page/" or a full URL to open another page.
+           This is independent of homepage (the base/metadata address above).
 version: The release version displayed at the bottom of the homepage.
 apps: The default /pocket-.../ paths automatically use your homepage domain.
       You can replace any one with a full https:// address to host it elsewhere.
