@@ -1,4 +1,4 @@
-YourPocketApps homepage — Version 2.0.0.4
+YourPocketApps homepage — Version 2.0.0.5
 
 Unzip and use index.html as your homepage. All page styles, fonts and app
 illustrations are bundled in the file.
@@ -31,7 +31,8 @@ metadata URLs. If hosted in Squarespace, its outer page metadata and icons must
 also be set there; an embedded document's head cannot reliably override them.
 
 Preserved amendments: responsive header, "Email" label, revised description
-and copyright, visitor customisation and orange/gold app icon family.
+and copyright, visitor customisation and orange/gold app icon family. App icons
+match the app ZIPs; their blue letter badges are larger and at the lower right.
 The scrolling band has been removed, bringing the following content up.
 
 This archive is the homepage only, not any of the five individual app ZIPs.
